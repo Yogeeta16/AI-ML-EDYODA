@@ -19,7 +19,7 @@ Sample properties
 Sample method output
     `35`
 
-![image1](images/01.png)
+
 
 **Coding exercise**
 Create a class `Point` with three properties: `x`, `y`, and `z`.
@@ -180,7 +180,6 @@ Create an `initializer` for the `SavingsAccount` class using the initializer of 
 
 Here, `Ashish`  is the `title` and `5000` is the `balance` and `5` is the `interestRate`.
 
-![image1](images/02.png)
 
 Coding exercise
 
@@ -248,7 +247,7 @@ In the `SavingsAccount` class, implement an `interestAmount()` *method* that **r
 
 **Below is the formula for calculating the interest amount:**
 
-![image1](images/03.png)
+
 
 Sample input
 
@@ -262,7 +261,7 @@ Sample output
 
 `The following figure shows what the result should logically look like:`
 
-![image1](images/04.png)
+
 
 Coding exercise
 
